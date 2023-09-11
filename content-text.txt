@@ -1,0 +1,156 @@
+RÉSUMÉ: MANDAR TAUSALKAR
+PERSONAL DETAILS
+Name: Mr. Mandar Tausalkar
+Address: 204/9 Morton Avenue, Carnegie, VIC 3163
+Phone: 0415 330 660
+Email: mandar181@gmail.com
+PROFILE
+Results-oriented analyst, developer and database professional with a focus on delivering high quality solutions in high traffic environments.
+Enthusiastic about new ideas, products and services. Proven team work and leadership ability. Capable of keeping a focus on the
+tasks and deadlines at hand. Solves immediate crises with solutions that will fit for the long-term.
+KEY PROFESSIONAL ATTRIBUTES
+12+ years of professional experience working in the IT, Hospitality & Education
+industries.
+Hands-on experience with all aspects of building large-scale, high-availability
+web and client applications, online commerce, database administration, open source
+software, and quality assurance.
+Practical knowledge of starting, managing and operating a hospitality business. Co-
+owned and managed a successful Melbourne restaurant for 3+ years.
+Experience with Point-of-Sale Solutions to hospitality and other retail businesses. 2+
+years experience as a freelance consultant/developer delivering affordable Point-of-
+Sale Systems to hospitality and other retail businesses.
+Stays up to date with best practices.
+QUALIFICATIONS
+Master of Business Systems: Monash University 2002
+Bachelor of Commerce: University of Mumbai, India 2000
+Diploma in Computer Programming (C C++): SSI Academy, India 2000
+
+
+EMPLOYMENT HISTORY
+
+
+SYSTEMS / WEB CO-ORDINATOR Sep 2008 to Present
+24 Hour News P/L, Melbourne
+
+Technical Environment:
+Ongoing development and management of several internet and intranet sites 
+based on PHP, and mySQL; in addition to planning, design and development of
+new web-sites, email campaigns and mini-sites.
+
+
+This also includes business
+process analysis, business process mapping, application design and
+development, desktop publishing, training and technical consultation.
+
+Key Accountabilities:
+Responsible for all aspects of the project cycle from receiving project briefs and
+delivering proposals, to project planning, liaison with third party contractors
+and service providers, testing, QA and client support.
+
+Design, development and implementation of several database driven internet and intranet sites
+
+(PHP  MySQL Linux framework (Magento, GetSimple,
+etc.).
+
+Developing SQL scripts for data extraction and reporting across multiple business units.
+
+Documenting changes to business processes in liaison with end-users and customers and implementing required changes to database logical and physical design.
+
+Supervision of the web development and graphics production team including staff roster, task assignment, training and management reporting.
+
+Remote administering Apache web servers, MySQL databases, mail, DNS and FTP servers.
+
+
+
+Key Projects:
+Content managed web site development :
+- Documenting business processes and data flows at a business unit level to
+produce functional specification and technical design documentation for
+database based content managed web site development.
+- Implementing key e-commerce systems including shopping cart applications
+in Maganto and custom PHP, MySQL, integrating payment gateways such as
+PayPal and One Gold World.
+- Managing the expectations of both internal and external customers, manage
+ongoing client relationships and establish, develop and maintain new client
+relationships.
+- Working towards hosting of web services and content in liaison with thirdparty
+providers and resellers, negotiating web hosting and content delivery
+network contracts.
+- Examples of web sites developed include seniorshousingcanada.com
+wiseowlonline.com (Magento based).
+
+
+LEAD DEVELOPER (Casual) January 2007 to present
+InfoMantra Business Systems, Melbourne, Victoria
+Technical Environment:
+Lead the development web applications and e-commerce web sites within a
+MySQL, PHP, CSS, jQuery, HTML framework. Perform browser testing, security
+audits, and stress tests. Execute benchmark tests and perform database
+optimization.
+Key Accountabilities:
+Architecting content management systems in PHP and MySQL that has been in
+daily use for over 2 years and drive content to web sites, and third-party
+systems.
+Developing applications and development frameworks using OO PHP.
+Administering MySQL databases.
+Developing web pages and templates using W3C web standards (XHTML and
+CSS), implementing AJAX search forms and auto-complete fields for intranet
+applications.
+Examples of web sites developed and supported include misht.com.au
+(Magento based). vedhicelements.com.au (Magento based),
+home2own.com.au
+
+WEB / DATABASE ADMINISTRATOR Nov 2006 to Sep 2008
+BizNews Network P/L, Melbourne
+Technical Environment:
+Migration of company websites and customer databases from existing HTML,
+Javascript and M.S. Access to more standards compliant and updated MySQL,
+PHP, CSS based environment. Ongoing development of new websites (front end
+and back end). Planning, design and optimisation of MySQL databases for email
+marketing campaigns to be compliant with Australian SPAM regulations.
+Key Accountabilities:
+Identifying, evaluating and recommending the most suitable content
+management platforms for delivering content to subscribers.
+Design, development, testing and implementation of MySQL databases.
+Plan, implement and oversee data migration from M.S. Access to MySQL.
+
+Documenting changes to business processes, user training and ongoing maintenance of websites and databases.
+
+Planning, development, implementation and maintenance of database driven web sites.
+
+
+Planning, design and development of custom content management 
+
+User training for using content management back end system.
+
+Liaising with third-party providers for securing web hosting services, managed servers and graphic design contracts.
+
+Develop and implement policies and procedures for maintaining accuracy of data used in email marketing campaigns.
+
+Ensure MySQL databases and email marketing campaigns comply with Australian SPAM regulations (CAN-SPAM Act 2002).
+
+Develop, implement and review polices and procedures for handling and resolution of spam complaints.
+
+
+
+IT Admin Nov 2003 to May 2006
+Worldwide Resources P/L, Melbourne
+
+Key Technologies
+MS Access, MySQL, MS Excel, HTML, Java Script, CSS
+
+Responsibilities:
+Part of a team looking after day to day maintenance of the company’s web sites and databases
+Generating management reports from back end database systems
+Managing a team of data entry operators
+
+
+
+
+Sessional Lecturer June 2003 to Oct 2003
+Monash College, Melbourne
+
+Key Responsibilities:
+Lecturing and tutoring one of the core first year units, Computer Modelling for Business Decisions in the diploma of Information Technology course at Monash
+College.
+The unit was an introduction to spreadsheet modelling, simulation, project management, risk analysis and financial modelling.
