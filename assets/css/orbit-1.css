@@ -260,6 +260,17 @@ p {
   color: #fb866a;
 }
 
+
+/* ************************ */
+/* Custom CSS to hide footer text when printing */
+@media print {    
+    .no-print, .no-print *  {
+        display: none !important;
+    }
+}
+/* ************************ */
+
+
 @media (max-width: 767.98px) {
   .sidebar-wrapper {
     position: static;
